@@ -15,7 +15,7 @@
 
 - 🔭 **Currently working on**: StaffConnect Mobile Application
 - 🌱 **Currently learning**: Machine Learning & Data Science
-- 👯 **Open to collaborate on**: [Health Connect mobile application](https://github.com/tonyephy/HealthConnect)
+- 👯 **Open to collaborate on**: [Health Connect mobile application](https://github.com/tonydev-star/HealthConnect)
 - 🤝 **Seeking help with**: Chatbot development, Blockchain Voting Systems, Map Integration in Mobile Apps
 - 💬 **Ask me about**: DevOps, Artificial Intelligence, Mobile Application Dev, WebDev
 - 📫 **Reach me**: tonylvan77@gmail.com
@@ -114,7 +114,12 @@ Check out the live demo here:
     <a href="https://linkedin.com/in/antony-wanjiru-5976b022a" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
+    <a href="https://software-hub-solutions.web.app/" target="_blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
+        Visit my website
+    </a>
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 📞 Contact
 For questions, feedback, or support, feel free to reach out:
