@@ -98,13 +98,13 @@ Check out the live demo here:
 ### 📈 **GitHub Stats**
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyephy&show_icons=true&locale=en&layout=compact" alt="tonyephy" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonydev-star&show_icons=true&locale=en&layout=compact" alt="tonydev-star" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyephy&show_icons=true&locale=en" alt="tonyephy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonydev-star&show_icons=true&locale=en" alt="tonydev-star" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyephy&" alt="tonyephy" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="tonydev-star" />
 </p>
 
 ---
@@ -114,6 +114,7 @@ Check out the live demo here:
     <a href="https://linkedin.com/in/antony-wanjiru-5976b022a" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
+    <br>
     <a href="https://software-hub-solutions.web.app/" target="_blank">
         <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
         Visit my website
