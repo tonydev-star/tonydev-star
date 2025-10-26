@@ -59,6 +59,8 @@
 ### 🏞️ Tour Recommender Mobile Application  
 **Technologies:** Flutter  
 > Suggests parks based on user-selected activities with personalized recommendations.
+ <br>
+ 🔗 [Live Demo](https://tonydev-star.github.io/tour-recommender-WebApp/)
 
 ### 💊 Healthcare Mobile Application  
 **Technologies:** Flutter, Firebase, Google Maps API  
@@ -73,14 +75,24 @@
 
 ## 🧰 Tech Stack  
 
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** Firebase, Node.js  
-**Database:** Firestore, MySQL  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Firebase, Node.js, Golang  
+**Database:** Firestore, MySQL, PostgreSQL  
 **Mobile:** Flutter  
-**Tools:** Git, Docker, Google Cloud, Photoshop  
+**Tools:** Git, Docker, Google Cloud, Postman, Photoshop  
+
+---
+
+### 🧠 Additional Expertise
+- ⚙️ Experience with **Golang** and similar general-purpose, statically typed languages.  
+- 🗄️ Strong understanding of **relational databases (SQL)**, **transactions**, and **concurrency management**.  
+- ☁️ Knowledge of **scalable SaaS architectures** and handling **high-volume environments**.  
+- 🔐 **Solid API design** — emphasizing **security**, **documentation**, and **maintainability**.  
+- 🧩 Passionate about writing **clean, efficient, and well-documented code**.  
+- 🚀 Curious, **product-oriented**, and **proactive** in solving technical challenges.  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,js,react,nodejs,python,mysql,php,git,docker,gcp" />
+  <img src="https://skillicons.dev/icons?i=golang,flutter,firebase,html,css,js,react,nodejs,python,mysql,postgres,git,docker,gcp,postman" />
 </p>
 
 ---
