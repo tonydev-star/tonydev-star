@@ -26,9 +26,7 @@
 
 ---
 
-## 🌍 Powering a Sustainable Future
-**Leading the transition to renewable energy** with innovative wind, solar, waste-to-energy, and hydro solutions across Africa.  
-🔗 [Visit Pivot Energy Ltd](https://tonydev-star.github.io/Pivot-Energy-Ltd/)
+
 
 ---
 
@@ -55,6 +53,10 @@
 ---
 
 ## ✅ Completed Projects  
+
+## 🌍 Powering a Sustainable Future
+**Leading the transition to renewable energy** with innovative wind, solar, waste-to-energy, and hydro solutions across Africa.  
+🔗 [Visit Pivot Energy Ltd](https://tonydev-star.github.io/Pivot-Energy-Ltd/)
 
 ### 🏞️ Tour Recommender Mobile Application  
 **Technologies:** Flutter  
