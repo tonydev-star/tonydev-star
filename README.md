@@ -5,7 +5,7 @@
 </div>
 
 # 👋 Hi, I'm **Antony Wanjiru**
-### 💡 A Passionate Software Developer from Nairobi, Kenya  
+### 💡 A Passionate Mobile Engineer / Software Engineer from Nairobi, Kenya  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tonydev-star&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
