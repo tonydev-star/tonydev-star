@@ -15,42 +15,58 @@
 
 ---
 
+---
+
 ### 🚀 About Me
-- 🔭 **Currently working on:** StaffConnect Mobile Application  
-- 🌱 **Currently learning:** Machine Learning & Data Science  
-- 👯 **Open to collaborate on:** [Health Connect Mobile Application](https://github.com/tonydev-star/HealthConnect)  
-- 🤝 **Seeking help with:** Chatbot Development, Blockchain Voting Systems, Map Integration in Apps  
-- 💬 **Ask me about:** DevOps, AI, Mobile & Web Development  
-- 📫 **Reach me:** [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)  
-- ⚡ **Fun fact:** Coding away with coffee in hand ☕💻  
+
+* 🔭 **Currently working on:** Agentic Customer Feedback Automation System
+* 🌱 **Currently focusing on:** Advanced React, Kotlin Spring Boot, Multi-Agent Systems, CI/CD with Jenkins, Cloud Deployment
+* 👯 **Open to collaborate on:** Automation, AI Agents, Full-Stack Projects
+* 💬 **Ask me about:** DevOps, AI Agents, Web & Mobile Development, Jenkins, LangChain integration
+* 📫 **Reach me:** [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
+* ⚡ **Fun fact:** Building autonomous systems while coding with coffee ☕💻
 
 ---
 
-
-
 ---
 
-## 🌟 Current Projects  
+## 🌟 Current Projects
 
-### 🧭 StaffConnect Mobile Application  
-**Technologies:** Flutter, Firebase  
+### 🤖 Agentic Customer Feedback Automation System
+
+**Technologies:** Kotlin, Spring Boot, React, MySQL, Jenkins
+
+> A multi-agent system that automates customer feedback collection, sentiment analysis, response generation, and logging. Includes CI/CD automation with Jenkins and a dynamic React dashboard for monitoring agent activity.
+> 🔗 [GitHub Repository](https://github.com/tonydev-star/agentic-project)
+
+### 🧭 StaffConnect Mobile Application
+
+**Technologies:** Flutter, Firebase
+
 > A communication app for employees with real-time notifications, event schedules, and emergency alerts.
 
-### 📋 Project Management WebApp  
-**Technologies:** Firebase, HTML, CSS, JavaScript  
-> A collaborative project tracker for teams with efficient task management and progress analytics.  
-🔗 [Live Demo](https://project-management-webapp.onrender.com)
+### 📋 Project Management WebApp
 
-### 🧠 Crime Analysis Mobile Application  
-**Technologies:** Flutter, Firebase  
+**Technologies:** Firebase, HTML, CSS, JavaScript
+
+> A collaborative project tracker for teams with efficient task management and progress analytics.
+> 🔗 [Live Demo](https://project-management-webapp.onrender.com)
+
+### 🧠 Crime Analysis Mobile Application
+
+**Technologies:** Flutter, Firebase
+
 > Enhances public safety through real-time crime reporting, analytics, and alerts to law enforcement and communities.
 
-### 🥋 Karate Web App  
-**Technologies:** Firebase, HTML, CSS, JavaScript  
-> A platform to manage karate-related activities, schedules, and events.  
-🔗 [Live Demo](https://karate-webapp.onrender.com)
+### 🥋 Karate Web App
+
+**Technologies:** Firebase, HTML, CSS, JavaScript
+
+> A platform to manage karate-related activities, schedules, and events.
+> 🔗 [Live Demo](https://karate-webapp.onrender.com)
 
 ---
+
 
 ## ✅ Completed Projects  
 
@@ -75,39 +91,73 @@
 
 ---
 
-## 🧰 Tech Stack  
 
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Firebase, Node.js, Golang  
-**Database:** Firestore, MySQL, PostgreSQL  
-**Mobile:** Flutter  
-**Tools:** Git, Docker, Google Cloud, Postman, Photoshop  
+## 🧰 Tech Stack & Tools
+
+**Frontend & Web:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30"/> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="30"/> CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="30"/> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="30"/> React
+</p>
+
+**Backend & Server:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30"/> Kotlin &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="30"/> Spring Boot &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30"/> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=golang" height="30"/> Golang
+</p>
+
+**Databases:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="30"/> MySQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"/> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="30"/> Firebase
+</p>
+
+**Mobile:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="30"/> Flutter &nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30"/> Kotlin
+</p>
+
+**DevOps & Tools:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30"/> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="30"/> Google Cloud &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="30"/> Postman
+</p>
+
+**IDEs & CLI:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windsurf" height="30"/> Windsurf &nbsp;
+  <img src="https://skillicons.dev/icons?i=droidcli" height="30"/> Droid CLI &nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="30"/> Ubuntu CLI
+</p>
 
 ---
 
 ### 🧠 Additional Expertise
-- ⚙️ Experience with **Golang** and similar general-purpose, statically typed languages.  
-- 🗄️ Strong understanding of **relational databases (SQL)**, **transactions**, and **concurrency management**.  
-- ☁️ Knowledge of **scalable SaaS architectures** and handling **high-volume environments**.  
-- 🔐 **Solid API design** — emphasizing **security**, **documentation**, and **maintainability**.  
-- 🧩 Passionate about writing **clean, efficient, and well-documented code**.  
-- 🚀 Curious, **product-oriented**, and **proactive** in solving technical challenges.  
+
+* 🤖 Hands-on experience building **Agentic Automation Systems** — multi-agent workflows for **customer feedback collection, sentiment analysis, automated responses, and logging**.
+* ⚙️ Experienced in **Golang**, **Kotlin**, **Node.js**, and other general-purpose, statically typed languages.
+* 🗄️ Strong understanding of **relational databases (MySQL, PostgreSQL, Firebase)**, **transactions**, and **concurrency management**.
+* ☁️ Knowledge of **scalable SaaS architectures** and handling **high-volume environments**.
+* 🔐 Skilled in **API design**, focusing on **security**, **documentation**, and **maintainability**.
+* 🧩 Passionate about writing **clean, efficient, and well-documented code**.
+* 🚀 Curious, **product-oriented**, and **proactive** in solving technical challenges.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,flutter,firebase,html,css,js,react,nodejs,python,mysql,postgres,git,docker,gcp,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonydev-star&show_icons=true&theme=graywhite" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonydev-star&layout=compact&theme=graywhite" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonydev-star&theme=graywhite" alt="GitHub Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,kotlin,spring,postgres,mysql,firebase,flutter,golang,git,docker,gcp,postman,windsurf,droidcli,ubuntu" height="100"/>
 </p>
 
 ---
@@ -116,13 +166,21 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/antony-wanjiru-5976b022a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> Check out my Linkedin
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> LinkedIn
   </a>
-    <br>
+  &nbsp;
+  
+  </a>
+  <a href="https://wa.me/254758002042" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /> WhatsApp
+  </a>
+  &nbsp;
+  
   <a href="https://software-hub-solutions.web.app/" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" /> Visit my website
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" /> Website
   </a>
 </p>
+
 
 ---
 
