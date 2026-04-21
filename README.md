@@ -81,7 +81,9 @@
 **Technologies:** Flutter
 
 > Suggests parks based on user-selected activities with personalized recommendations.
-> 🔗 [Live Demo]([https://tour-recommender-app.web.app/#/signup])
+> 🔗 <a href="https://tour-recommender-app.web.app/#/signup" target="_blank">
+  Live Demo
+</a>
 
 ### 🗳️ E-Voting WebApp
 
