@@ -81,20 +81,14 @@
 **Technologies:** Flutter
 
 > Suggests parks based on user-selected activities with personalized recommendations.
-> 🔗 [Live Demo](https://tonydev-star.github.io/tour-recommender-WebApp/)
-
-### 💊 Healthcare Mobile Application
-
-**Technologies:** Flutter, Firebase, Google Maps API
-
-> Offers appointment booking, prescription refills, and health tracking features with nearby facility search.
+> 🔗 [Live Demo]([https://tour-recommender-app.web.app/#/signup])
 
 ### 🗳️ E-Voting WebApp
 
 **Technologies:** Node.js, Firebase, HTML, CSS, JavaScript
 
 > A secure and transparent online voting system with live results and admin controls.
-> 🔗 [Live Demo](https://kenya-e-voting.onrender.com)
+> 🔗 [Live link](https://kenya-e-voting.onrender.com)
 
 ---
 
