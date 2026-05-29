@@ -1,201 +1,131 @@
----
-
-<!-- HEADER -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <img width="550" height="250" src="https://raw.githubusercontent.com/tonyephy/tonyephy/main/Logo.png" alt="Logo">
-</div>
-
-# 👋 Hi, I'm **Antony Wanjiru**
-
-### 💡 A Passionate Mobile Engineer / Software Engineer / Database Administrator from Nairobi, Kenya
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tonydev-star&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Antony%20Wanjiru&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Full-Stack+Engineer;Flutter+%7C+Kotlin+%7C+React+%7C+Node.js;Building+Scalable+Cloud+Applications;AI+%26+Automation+Enthusiast" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### Mobile & Full-Stack Software Engineer  
+📍 Nairobi, Kenya  
+📧 Email: tonylvan77@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/antony-wanjiru-5976b022a  
+🌐 Work WebSite : https://software-hub-solutions.web.app/
 
 ---
 
-### 🚀 About Me (Updated)
+## 🔥 GitHub Streak
 
-* 🔭 **Currently working on:** Agentic Customer Feedback Automation System
-* 🌱 **Currently focusing on:** Advanced React, Kotlin Spring Boot, Multi-Agent Systems, CI/CD with Jenkins, Cloud Deployment, Database Management
-* 👯 **Open to collaborate on:** Automation, AI Agents, Full-Stack Projects, Database Optimization & Administration
-* 💬 **Ask me about:** DevOps, AI Agents, Web & Mobile Development, Jenkins, LangChain integration, **Database Administration**
-* 🗄️ **Database expertise:** PostgreSQL, MySQL, SQL Server — backup and recovery strategies, performance tuning, replication, schema design, transactional integrity, and large-scale migrations
-* 📫 **Reach me:** [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
-* ⚡ **Fun fact:** Building autonomous systems while coding with coffee ☕💻
-
----
-
-## 🌟 Current Projects
-
-### 🤖 Agentic Customer Feedback Automation System
-
-**Technologies:** Kotlin, Spring Boot, React, MySQL, Jenkins
-
-> A multi-agent system that automates customer feedback collection, sentiment analysis, response generation, and logging. Includes CI/CD automation with Jenkins and a dynamic React dashboard for monitoring agent activity.
-> **Database highlight:** Designed and optimized PostgreSQL schemas, indexing strategies, and backup routines supporting 500k+ users with high-availability and transactional integrity.
-> 🔗 [GitHub Repository](https://github.com/tonydev-star/agentic-project)
-
-### 🧭 StaffConnect Mobile Application
-
-**Technologies:** Flutter, Firebase
-
-> A communication app for employees with real-time notifications, event schedules, and emergency alerts.
-
-### 📋 Project Management WebApp
-
-**Technologies:** Firebase, HTML, CSS, JavaScript
-
-> A collaborative project tracker for teams with efficient task management and progress analytics.
-> 🔗 [Live Demo](https://project-management-webapp.onrender.com)
-
-### 🧠 Crime Analysis Mobile Application
-
-**Technologies:** Flutter, Firebase
-
-> Enhances public safety through real-time crime reporting, analytics, and alerts to law enforcement and communities.
-
-### 🥋 Karate Web App
-
-**Technologies:** Firebase, HTML, CSS, JavaScript
-
-> A platform to manage karate-related activities, schedules, and events.
-> 🔗 [Live Demo](https://karate-webapp.onrender.com)
-
----
-
-## ✅ Completed Projects
-
-### 🌍 Powering a Sustainable Future
-
-**Leading the transition to renewable energy** with innovative wind, solar, waste-to-energy, and hydro solutions across Africa.
-🔗 [Visit Pivot Energy Ltd](https://tonydev-star.github.io/Pivot-Energy-Ltd/)
-
-### 🏞️ Tour Recommender Mobile Application
-
-**Technologies:** Flutter
-
-> Suggests parks based on user-selected activities with personalized recommendations.
-> 🔗 <a href="https://tour-recommender-app.web.app/#/signup" target="_blank">
-  Live Demo
-</a>
-
-### 🗳️ E-Voting WebApp
-
-**Technologies:** Node.js, Firebase, HTML, CSS, JavaScript
-
-> A secure and transparent online voting system with live results and admin controls.
-> 🔗 [Live link](https://kenya-e-voting.onrender.com)
-
----
-
-## 🧰 Tech Stack & Tools
-
-**Frontend & Web:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30"/> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="30"/> CSS &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="30"/> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="30"/> React
-</p>
-
-**Backend & Server:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30"/> Kotlin &nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="30"/> Spring Boot &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30"/> Node.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=golang" height="30"/> Golang
-</p>
-
-**Databases:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="30"/> MySQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="30"/> PostgreSQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="30"/> Firebase &nbsp;
-  <img src="https://skillicons.dev/icons?i=mssql" height="30"/> SQL Server
-</p>
-
-**Mobile:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="30"/> Flutter &nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30"/> Kotlin
-</p>
-
-**DevOps & Tools:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30"/> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker &nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="30"/> Google Cloud &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="30"/> Postman
-</p>
-
-**IDEs & CLI:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windsurf" height="30"/> Windsurf &nbsp;
-  <img src="https://skillicons.dev/icons?i=droidcli" height="30"/> Droid CLI &nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="30"/> Ubuntu CLI
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tonydev-star&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Additional Expertise (Updated)
+## 📈 Contribution Activity
 
-* 🤖 Hands-on experience building **Agentic Automation Systems** — multi-agent workflows for **customer feedback collection, sentiment analysis, automated responses, and logging**
-* ⚙️ Experienced in **Golang**, **Kotlin**, **Node.js**, and other general-purpose, statically typed languages
-* 🗄️ **Database Administration & Engineering:**
-
-  * Managing **PostgreSQL, MySQL, and SQL Server** in production environments
-  * Designing and optimizing **schemas, queries, and indexes**
-  * Implementing **backup and recovery strategies**, replication, and high-availability setups
-  * Ensuring **data integrity, transaction management, and performance tuning**
-  * Leading **large-scale database migrations and upgrades** for high-volume systems
-* ☁️ Knowledge of **scalable SaaS architectures** and handling **high-volume environments**
-* 🔐 Skilled in **API design**, focusing on **security**, **documentation**, and **maintainability**
-* 🧩 Passionate about writing **clean, efficient, and well-documented code**
-* 🚀 Curious, **product-oriented**, and **proactive** in solving technical challenges
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,kotlin,spring,postgres,mysql,firebase,mssql,flutter,golang,git,docker,gcp,postman,windsurf,droidcli,ubuntu" height="100"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonydev-star&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/antony-wanjiru-5976b022a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> LinkedIn
-  </a>
-  &nbsp;
+## 🧠 About Me
 
-  <a href="https://wa.me/254758002042" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /> WhatsApp
-  </a>
-  &nbsp;
+I am a Software Engineer focused on **mobile and full-stack development**, building scalable applications using Flutter, Kotlin, React, Node.js, and Spring Boot.
 
-  <a href="https://software-hub-solutions.web.app/" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" /> Website
-  </a>
-</p>
+I specialize in **mobile apps, backend systems, and cloud-based platforms**, with growing expertise in **AI automation systems and scalable architectures**.
 
 ---
 
-## 📞 Contact
+## 🚀 Projects
 
-* **Email:** [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
-* **PayPal Email:** [antonywanjiru7777@gmail.com](mailto:antonywanjiru7777@gmail.com)
+### 🤖 Agentic Customer Feedback System
+Spring Boot • React • MySQL • Jenkins  
+- Multi-agent automation system for feedback analysis  
+- CI/CD pipeline with Jenkins  
+- Scalable backend architecture  
 
 ---
 
+### 📱 StaffConnect App
+Flutter • Firebase  
+- Employee communication & notification system  
 
+---
+
+### 📋 Project Management Web App
+Firebase • JavaScript  
+- Task tracking and team collaboration platform  
+
+---
+
+### 🧠 Crime Reporting App
+Flutter • Firebase  
+- Real-time crime reporting with location tracking  
+
+---
+
+### 🗳️ E-Voting System
+Node.js • Firebase  
+- Secure voting platform with admin dashboard  
+
+---
+
+### 🌍 Tour Recommender Mobile App
+Flutter  
+- Suggests parks and destinations based on user preferences  
+- Personalized recommendation system  
+
+---
+
+### 🛒 VibeMarket App
+Flutter • Firebase  
+- Digital marketplace platform  
+- Product listing, user interactions, and transactions  
+
+---
+
+### 🪑 Erika Furniture Web App
+HTML • CSS • JavaScript • Firebase  
+- Furniture showcase and customer engagement platform  
+- Inquiry and contact system  
+
+---
+
+### ⚡ Pivot Energy Ltd Web App
+HTML • CSS • JavaScript  
+- Renewable energy company website  
+- Showcases solar, wind, and clean energy solutions  
+
+---
+
+## 🧰 Tech Stack
+
+**Mobile:** Flutter, Kotlin  
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** Node.js, Spring Boot  
+**Databases:** MySQL, PostgreSQL, Firebase, SQL Server  
+**DevOps:** Git, Docker, Jenkins, GCP  
+**Tools:** Postman, Firebase Console
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Flutter architecture  
+- Backend systems with Spring Boot & Node.js  
+- CI/CD automation  
+- Scalable mobile + web applications  
+- AI-powered automation systems  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: tonylvan77@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/antony-wanjiru-5976b022a  
+- 💬 WhatsApp: https://wa.me/254758002042  
+- 🌐 My Company website : https://software-hub-solutions.web.app/
